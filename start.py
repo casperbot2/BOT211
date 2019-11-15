@@ -20,7 +20,7 @@ print("1 : Image Spammer - Spam random images in a selected folder")
 print("2 : Insult Spammer - Picks insults offline and spams them")
 print("3 : Text Spammer - Write your own text to spam")
 
-in_pick = float(input("3: "))
+in_pick = float(input("pick a number : "))
 
 if in_pick == 1:
     for token in userToken:
